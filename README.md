@@ -3,22 +3,24 @@
 </div>
 
 # Olá, eu sou o Pedro Mira! 👋
-**Engenheiro de Aprendizado de Máquina | Cientista de Dados | [cite_start]IA Generativa e P&D** [cite: 24]
+**Engenheiro de Aprendizado de Máquina | Cientista de Dados | IA Generativa e P&D** 
 
-[cite_start]Sou um Engenheiro de Computação em formação com foco em transformar problemas complexos em soluções de IA de alto impacto[cite: 27]. [cite_start]Tenho sólida experiência no ciclo completo de dados, desde a pesquisa acadêmica até a implementação de soluções de IA Generativa e RAG[cite: 28].
+Sou um Engenheiro de Computação em formação com foco em transformar problemas complexos em soluções de IA de alto impacto. Tenho sólida experiência no ciclo completo de dados, desde a pesquisa acadêmica até a implementação de soluções de IA Generativa e RAG.
 
 ### 🎓 Formação Acadêmica
-- [cite_start]**Universidade Federal da Paraíba (UFPB)** - Bacharelado, Engenharia de Computação (2020 - 2025) [cite: 62, 63]
-- [cite_start]**ENAC - Ecole Nationale de l'Aviation Civile** - Bacharelado, Engenharia Aeroespacial, Aeronáutica e Astronáutica (2025 - 2026) [cite: 59, 60]
+- **Universidade Federal da Paraíba (UFPB)** - Bacharelado, Engenharia de Computação (2020 - 2025)
+- **ENAC - Ecole Nationale de l'Aviation Civile** - Bacharelado, Engenharia Aeroespacial, Aeronáutica e Astronáutica (2025 - 2026) 
 
 ### 💼 Experiência Atual
-- [cite_start]**Gerente de Projetos @ Cebraspe**: Liderando o desenvolvimento de um assistente jurídico inteligente baseado em Large Language Models (LLMs)[cite: 34, 35, 37, 39].
-- [cite_start]**Pesquisador @ LASER Laboratory**: Atuando com Sistemas Multi-Robôs e Otimização de Redes Neurais para Sistemas Embarcados[cite: 41, 42, 46, 47].
+- **Gerente de Projetos @ Cebraspe**: Liderando o desenvolvimento de um assistente jurídico inteligente baseado em Large Language Models (LLMs).
+- **Pesquisador @ LASER Laboratory**: Atuando com Sistemas Multi-Robôs e Otimização de Redes Neurais para Sistemas Embarcados.
 
 ### 🛠️ Stack Técnica e Competências
-- [cite_start]**Linguagens e Frameworks:** Python (Scikit-Learn, PyTorch), SQL, C, C++ [cite: 31]
-- [cite_start]**IA & Dados:** Large Language Models (LLM), RAG, IA Generativa, Processamento de Linguagem Natural (NLP) [cite: 10, 29, 31]
-- [cite_start]**Ferramentas:** Docker, Elasticsearch, Linux [cite: 8, 9]
+- **Linguagens e Frameworks:** Python (Scikit-Learn, PyTorch), C, C++
+- **IA & Dados:** Aprendizado de Máquina Clássico, Processamento de Linguagem Natural (NLP), Large Language Models (LLMs), RAG e Otimização de Redes Neurais.
+- **Bancos de Dados:** SQL, NOSQL, VectorDB.
+- **Ferramentas:** Docker, Linux
+- **Idiomas**: Inglês (Intermediário), Francês (B1 - DELF), Português (Nativo).
 
 <div align="center">
   <a href="https://github.com/JovemPedr0">
@@ -36,7 +38,7 @@
 
 ### 📬 Contato
 <div align="center">  
-  [cite_start]<a href="mailto:plvm0220@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> [cite: 2]
-  [cite_start]<a href="https://www.linkedin.com/in/pedro-lv-mira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> [cite: 3]
-  [cite_start]<a href="http://lattes.cnpq.br/4999743403420237" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23005A9C?style=for-the-badge&logo=minutemailer&logoColor=white" target="_blank"></a> [cite: 5]
+  <a href="mailto:plvm0220@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-lv-mira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://lattes.cnpq.br/4999743403420237" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23005A9C?style=for-the-badge&logo=minutemailer&logoColor=white" target="_blank"></a> 
 </div>
