@@ -3,13 +3,12 @@
 </div>
 
 # Olá, eu sou o Pedro Mira! 👋
-**Engenheiro de Aprendizado de Máquina | Cientista de Dados | IA Generativa e P&D** 
 
-Sou um Engenheiro de Computação em formação com foco em transformar problemas complexos em soluções de IA de alto impacto. Tenho sólida experiência no ciclo completo de dados, desde a pesquisa acadêmica até a implementação de soluções de IA Generativa e RAG.
+Graduando em Engenharia de Computação com dupla formação (UFPB e ENAC - França). Atuo na área de Ciência de Dados e IA, aplicando desde algoritmos clássicos de Machine Learning até técnicas de NLP. Minha experiência abrange pesquisa em sistemas robóticos e o desenvolvimento de soluções de inteligência artificial para os setores de energia e jurídico
 
 ### 🎓 Formação Acadêmica
-- **Universidade Federal da Paraíba (UFPB)** - Bacharelado, Engenharia de Computação (2020 - 2025)
-- **ENAC - Ecole Nationale de l'Aviation Civile** - Bacharelado, Engenharia Aeroespacial, Aeronáutica e Astronáutica (2025 - 2026) 
+- **Universidade Federal da Paraíba (UFPB)** - Bacharelado, Engenharia de Computação (2020 - em progresso).
+- **ENAC - Ecole Nationale de l'Aviation Civile** - Bacharelado, Engenharia Aeroespacial, Aeronáutica e Astronáutica (2025 - em progresso).
 
 ### 💼 Experiência Atual
 - **Gerente de Projetos @ Cebraspe**: Liderando o desenvolvimento de um assistente jurídico inteligente baseado em Large Language Models (LLMs).
