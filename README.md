@@ -1,7 +1,3 @@
-<div align="center">
-    <img height="300" width="400" src="https://cdn.dribbble.com/users/975894/screenshots/4958551/hello_lettered3.gif" >
-</div>
-
 # Hello, I'm Pedro Mira! 👋
 
 AI Engineer and Data Scientist with a strong research background, specialized in Generative AI, Hardware-Aware AI, and Distributed Edge Computing. I have end-to-end experience — from data analysis and modeling, through the design of novel architectures and model training/optimization, to production pipeline deployment.
