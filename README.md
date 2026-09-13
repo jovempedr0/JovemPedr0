@@ -16,10 +16,6 @@ AI Engineer and Data Scientist with a strong research background, specialized in
 - **Lead AI Researcher / Project Manager @ UFPB**: Leading R&D of a Generative AI legal assistant based on RAG and LLMs.
 - **R&D Software Engineer @ Radix Engineering** (Brazil): NLP virtual assistant and predictive maintenance for energy operation centers.
 
-### 📄 Selected Publications
-- P. Mira, et al., *"Heterogeneous Multi-Robot Systems for Warehouse Inventory Management"*, ICUAS 2023.
-- P. Mira, et al., *"Vision-based KNN Approach for Multiple Search and Landing"*, LARS/SBR/WRE 2023.
-
 <div style="display: inline-block" align="center"><br>
   <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
