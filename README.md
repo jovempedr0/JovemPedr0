@@ -27,13 +27,6 @@ AI Engineer and Data Scientist with a strong research background, specialized in
 - P. Mira, et al., *"Heterogeneous Multi-Robot Systems for Warehouse Inventory Management"*, ICUAS 2023.
 - P. Mira, et al., *"Vision-based KNN Approach for Multiple Search and Landing"*, LARS/SBR/WRE 2023.
 
-<div align="center">
-  <a href="https://github.com/JovemPedr0">
-  <img height="150em" src="https://github-readme-stats.athul.dev/api?username=JovemPedr0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.athul.dev/api/top-langs/?username=JovemPedr0&layout=compact&langs_count=7&theme=gotham"/>
-  </a>
-</div>
-  
 <div style="display: inline-block" align="center"><br>
   <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
