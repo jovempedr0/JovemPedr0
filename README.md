@@ -16,13 +16,6 @@ AI Engineer and Data Scientist with a strong research background, specialized in
 - **Lead AI Researcher / Project Manager @ UFPB**: Leading R&D of a Generative AI legal assistant based on RAG and LLMs.
 - **R&D Software Engineer @ Radix Engineering** (Brazil): NLP virtual assistant and predictive maintenance for energy operation centers.
 
-### 🛠️ Technical Stack & Skills
-- **Machine Learning & AI:** Machine Learning (NLP, predictive analytics), Generative AI (LLMs, RAG), Hardware-Aware AI (quantization, pruning), Distributed Edge Computing, optimization algorithms.
-- **ML Frameworks & Libraries:** PyTorch (expert), Scikit-learn, FAISS, NumPy, Pandas.
-- **Programming Languages:** Python (expert), C/C++, SQL, Bash.
-- **Systems & Tools:** Docker, Linux, Git, CI/CD, distributed systems, LaTeX.
-- **Spoken Languages:** Portuguese (Native), French (B1 DELF; conversational B2/C1), English (B2 - Oxford Placement Test).
-
 ### 📄 Selected Publications
 - P. Mira, et al., *"Heterogeneous Multi-Robot Systems for Warehouse Inventory Management"*, ICUAS 2023.
 - P. Mira, et al., *"Vision-based KNN Approach for Multiple Search and Landing"*, LARS/SBR/WRE 2023.
