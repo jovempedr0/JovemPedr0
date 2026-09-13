@@ -10,10 +10,6 @@ Computer Engineering student with a dual degree (UFPB and ENAC - France). I work
 - **Universidade Federal da Paraíba (UFPB)** - Bachelor's Degree, Computer Engineering (2020 - in progress).
 - **ENAC - Ecole Nationale de l'Aviation Civile** - Bachelor's Degree, Aerospace, Aeronautical and Astronautical Engineering (2025 - in progress).
 
-### 💼 Current Experience
-- **Project Manager @ Cebraspe**: Leading the development of an intelligent legal assistant based on Large Language Models (LLMs).
-- **Researcher @ LASER Laboratory**: Working with Multi-Robot Systems and Neural Network Optimization for Embedded Systems.
-
 ### 🛠️ Technical Stack & Skills
 - **Languages and Frameworks:** Python (Scikit-Learn, PyTorch), C, C++
 - **AI & Data:** Classic Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), RAG, and Neural Network Optimization.
