@@ -2,24 +2,24 @@
     <img height="300" width="400" src="https://cdn.dribbble.com/users/975894/screenshots/4958551/hello_lettered3.gif" >
 </div>
 
-# Olá, eu sou o Pedro Mira! 👋
+# Hello, I'm Pedro Mira! 👋
 
-Graduando em Engenharia de Computação com dupla formação (UFPB e ENAC - França). Atuo na área de Ciência de Dados e IA, aplicando desde algoritmos clássicos de Machine Learning até técnicas de NLP. Minha experiência abrange pesquisa em sistemas robóticos e o desenvolvimento de soluções de inteligência artificial para os setores de energia e jurídico.
+Computer Engineering student with a dual degree (UFPB and ENAC - France). I work in Data Science and AI, applying everything from classic Machine Learning algorithms to NLP techniques. My experience spans research in robotic systems and the development of artificial intelligence solutions for the energy and legal sectors.
 
-### 🎓 Formação Acadêmica
-- **Universidade Federal da Paraíba (UFPB)** - Bacharelado, Engenharia de Computação (2020 - em progresso).
-- **ENAC - Ecole Nationale de l'Aviation Civile** - Bacharelado, Engenharia Aeroespacial, Aeronáutica e Astronáutica (2025 - em progresso).
+### 🎓 Academic Background
+- **Universidade Federal da Paraíba (UFPB)** - Bachelor's Degree, Computer Engineering (2020 - in progress).
+- **ENAC - Ecole Nationale de l'Aviation Civile** - Bachelor's Degree, Aerospace, Aeronautical and Astronautical Engineering (2025 - in progress).
 
-### 💼 Experiência Atual
-- **Gerente de Projetos @ Cebraspe**: Liderando o desenvolvimento de um assistente jurídico inteligente baseado em Large Language Models (LLMs).
-- **Pesquisador @ LASER Laboratory**: Atuando com Sistemas Multi-Robôs e Otimização de Redes Neurais para Sistemas Embarcados.
+### 💼 Current Experience
+- **Project Manager @ Cebraspe**: Leading the development of an intelligent legal assistant based on Large Language Models (LLMs).
+- **Researcher @ LASER Laboratory**: Working with Multi-Robot Systems and Neural Network Optimization for Embedded Systems.
 
-### 🛠️ Stack Técnica e Competências
-- **Linguagens e Frameworks:** Python (Scikit-Learn, PyTorch), C, C++
-- **IA & Dados:** Aprendizado de Máquina Clássico, Processamento de Linguagem Natural (NLP), Large Language Models (LLMs), RAG e Otimização de Redes Neurais.
-- **Bancos de Dados:** SQL, NOSQL, VectorDB.
-- **Ferramentas:** Docker, Linux
-- **Idiomas**: Inglês (Intermediário), Francês (B1 - DELF), Português (Nativo).
+### 🛠️ Technical Stack & Skills
+- **Languages and Frameworks:** Python (Scikit-Learn, PyTorch), C, C++
+- **AI & Data:** Classic Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), RAG, and Neural Network Optimization.
+- **Databases:** SQL, NoSQL, VectorDB.
+- **Tools:** Docker, Linux
+- **Languages**: English (Intermediate), French (B1 - DELF), Portuguese (Native).
 
 <div align="center">
   <a href="https://github.com/JovemPedr0">
@@ -39,9 +39,8 @@ Graduando em Engenharia de Computação com dupla formação (UFPB e ENAC - Fran
   <img align="center" alt="Linux" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
 
-### 📬 Contato
+### 📬 Contact
 <div align="center">  
   <a href="mailto:plvm0220@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/pedro-lv-mira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="http://lattes.cnpq.br/4999743403420237" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23005A9C?style=for-the-badge&logo=minutemailer&logoColor=white" target="_blank"></a> 
-</div>
+  <a href="http://lattes.cnpq.br/4999743403420237" target="_blank"><img
