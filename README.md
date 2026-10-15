@@ -27,35 +27,9 @@ NLP on real-time operator communications and predictive maintenance support for 
 
 ---
 
-### 📄 Publications
-- *Vision-based K-Nearest Neighbor Approach for Multiple Search and Landing with Energy Constraints*
-- *Heterogeneous Multi-Robot Systems Approach for Warehouse Inventory Management*
-
----
-
 ### 🎓 Education
 - **UFPB – Federal University of Paraíba** · Computer Engineering (5-year engineering degree) · expected mid-2027
 - **ENAC – École Nationale de l'Aviation Civile** · Exchange, IT Systems for Air Transport · 2025 – 2026
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img alt="PyTorch" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
-  <img alt="Scikit-Learn" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-  <img alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img alt="C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img alt="Bash" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-  <img alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-</p>
-
-**AI/ML:** LLMs · RAG · NLP · Model compression (quantization, pruning) · Genetic algorithms · Optimization
-**Languages:** 🇧🇷 Portuguese · 🇬🇧 English · 🇫🇷 French
 
 ---
 
