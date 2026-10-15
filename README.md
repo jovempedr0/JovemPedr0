@@ -1,7 +1,5 @@
 # Hi, I'm Pedro Mira 👋
 
----
-
 ### 💼 Experience
 
 **Data Scientist @ Deloitte** · *Oct 2026 – present*
