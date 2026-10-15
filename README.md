@@ -1,9 +1,5 @@
 # Hi, I'm Pedro Mira 👋
 
-**Data Scientist @ Deloitte** · AI Engineer with a research background in Generative AI, Hardware-Aware AI and Distributed Edge Computing.
-
-I turn complex operational and research data into production AI systems — from data analysis and modeling, through novel architectures and model training/optimization, to deployed pipelines. My work spans predictive maintenance for energy and mining, LLM-based legal automation, and optimization for satellite networks.
-
 ---
 
 ### 💼 Experience
